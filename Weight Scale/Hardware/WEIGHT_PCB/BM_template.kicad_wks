@@ -1,0 +1,327 @@
+(kicad_wks
+	(version 20231118)
+	(generator "pl_editor")
+	(generator_version "8.0")
+	(setup
+		(textsize 1.5 1.5)
+		(linewidth 0.15)
+		(textlinewidth 0.15)
+		(left_margin 10)
+		(right_margin 10)
+		(top_margin 10)
+		(bottom_margin 10)
+	)
+	(rect
+		(name "")
+		(start 110.114 27.0022)
+		(end 1.989 2.0272)
+		(comment "rect around the title block")
+	)
+	(rect
+		(name "")
+		(start 0 0 ltcorner)
+		(end 0 0)
+		(repeat 2)
+		(incrx 2)
+		(incry 2)
+	)
+	(line
+		(name "")
+		(start 50 2 ltcorner)
+		(end 50 0 ltcorner)
+		(repeat 30)
+		(incrx 50)
+	)
+	(tbtext "1"
+		(name "")
+		(pos 25 1 ltcorner)
+		(font
+			(size 1.3 1.3)
+		)
+		(repeat 100)
+		(incrx 50)
+	)
+	(line
+		(name "")
+		(start 50 2 lbcorner)
+		(end 50 0 lbcorner)
+		(repeat 30)
+		(incrx 50)
+	)
+	(tbtext "1"
+		(name "")
+		(pos 25 1 lbcorner)
+		(font
+			(size 1.3 1.3)
+		)
+		(repeat 100)
+		(incrx 50)
+	)
+	(line
+		(name "")
+		(start 0 50 ltcorner)
+		(end 2 50 ltcorner)
+		(repeat 30)
+		(incry 50)
+	)
+	(tbtext "A"
+		(name "")
+		(pos 1 25 ltcorner)
+		(font
+			(size 1.3 1.3)
+		)
+		(justify center)
+		(repeat 100)
+		(incry 50)
+	)
+	(line
+		(name "")
+		(start 0 50 rtcorner)
+		(end 2 50 rtcorner)
+		(repeat 30)
+		(incry 50)
+	)
+	(tbtext "A"
+		(name "")
+		(pos 1 25 rtcorner)
+		(font
+			(size 1.3 1.3)
+		)
+		(justify center)
+		(repeat 100)
+		(incry 50)
+	)
+	(tbtext "Date: ${ISSUE_DATE}"
+		(name "")
+		(pos 42.775 7.0502)
+		(font
+			(color 0 0 0 1)
+		)
+	)
+	(line
+		(name "")
+		(start 110 5.5)
+		(end 2 5.5)
+	)
+	(tbtext "${KICAD_VERSION}"
+		(name "")
+		(pos 109.05 3.7)
+		(font
+			(color 0 0 0 1)
+		)
+		(comment "Kicad version")
+	)
+	(line
+		(name "")
+		(start 110.1 8.7752)
+		(end 2.1 8.7752)
+	)
+	(tbtext "Rev: ${REVISION}"
+		(name "")
+		(pos 18.3 7.1502)
+		(font
+			(color 0 0 0 1)
+		)
+	)
+	(tbtext "Size: ${PAPER}"
+		(name "")
+		(pos 42.8 3.7002)
+		(font
+			(color 0 0 0 1)
+		)
+		(comment "Paper format name")
+	)
+	(tbtext "${#} of ${##}"
+		(name "")
+		(pos 10.9 3.7002)
+		(font
+			(color 0 0 0 1)
+		)
+		(justify center)
+		(comment "Sheet id")
+	)
+	(line
+		(name "")
+		(start 110.114 12.5022)
+		(end 37.514 12.4772)
+	)
+	(tbtext "Title: ${TITLE}"
+		(name "")
+		(pos 109 10.7)
+		(font
+			(color 0 0 0 1)
+		)
+	)
+	(line
+		(name "")
+		(start 19.314 8.7772)
+		(end 19.314 5.5022)
+	)
+	(bitmap
+		(name "")
+		(pos 19.612 17.9652)
+		(scale 1)
+		(comment "company logo")
+		(data "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"
+			"hUbU0DoAAAAASUVORK5CYII="
+		)
+	)
+	(line
+		(name "")
+		(start 37.489 27.0022)
+		(end 37.464 8.7772)
+	)
+	(tbtext "Balanças Marques"
+		(name "")
+		(pos 109.114 23.927)
+		(font
+			(size 2.032 2.032) bold
+			(color 0 0 0 1)
+		)
+		(comment "Company name")
+	)
+	(tbtext "PLC: ${COMMENT1}"
+		(name "")
+		(pos 61.739 14.3522)
+		(font
+			(color 0 0 0 1)
+		)
+		(comment "PLC ID")
+	)
+	(tbtext "Project: ${PROJECTNAME}"
+		(name "")
+		(pos 108.864 14.3772)
+		(font
+			(color 0 0 0 1)
+		)
+		(comment "Project Name")
+	)
+	(line
+		(name "")
+		(start 109.964 16.3522)
+		(end 37.539 16.3522)
+	)
+	(tbtext "http://www.balancasmarques.com"
+		(name "")
+		(pos 108.889 21.077)
+		(font
+			(size 1.27 1.27) italic
+			(color 0 0 0 1)
+		)
+		(comment "Company website")
+	)
+	(line
+		(name "")
+		(start 62.489 16.3272)
+		(end 62.489 12.5022)
+	)
+	(line
+		(name "")
+		(start 43.964 8.7772)
+		(end 43.964 5.5272)
+	)
+	(tbtext "Designed by: ${COMMENT3}"
+		(name "")
+		(pos 109.064 7.152)
+		(font
+			(color 0 0 0 1)
+		)
+		(comment "Engineer Name")
+	)
+	(tbtext "Parque Industrial de Celeirós (2ª Fase), Braga, 4701-905 Braga, PT"
+		(name "")
+		(pos 108.789 18.802)
+		(font
+			(size 1.27 1.27)
+			(color 0 0 0 1)
+		)
+		(comment "Company website")
+	)
+	(line
+		(name "")
+		(start 43.964 5.5272)
+		(end 43.964 2.1272)
+	)
+	(line
+		(name "")
+		(start 19.314 5.3772)
+		(end 19.314 2.1022)
+	)
+	(line
+		(name "")
+		(start 62.489 12.4662)
+		(end 62.489 8.8022)
+	)
+	(tbtext "PCB: ${COMMENT2}"
+		(name "")
+		(pos 61.814 10.602)
+		(font
+			(color 0 0 0 1)
+		)
+		(comment "PCB ID")
+	)
+)

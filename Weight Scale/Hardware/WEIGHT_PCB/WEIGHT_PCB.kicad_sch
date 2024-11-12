@@ -1,0 +1,210 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5fd124d5-f631-461d-96a1-dd77850b026f")
+	(paper "A4")
+	(title_block
+		(title "Weight PCB")
+		(date "2024-11-12")
+		(rev "0.01")
+		(company "Balanças Marques")
+		(comment 3 "Ruben Figueiredo")
+	)
+	(lib_symbols)
+	(sheet
+		(at 86.614 71.12)
+		(size 26.162 13.462)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1bbaf636-55e5-4b8a-96e8-09e0e59dc51d")
+		(property "Sheetname" "AD7190"
+			(at 86.614 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AD7190.kicad_sch"
+			(at 86.614 85.1666 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "WEIGHT_PCB"
+				(path "/5fd124d5-f631-461d-96a1-dd77850b026f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 76.2)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3b857fd8-f88b-4275-a62b-b256e217c817")
+		(property "Sheetname" "STM32F303CCT7"
+			(at 127 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microcontroller.kicad_sch"
+			(at 127 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "WEIGHT_PCB"
+				(path "/5fd124d5-f631-461d-96a1-dd77850b026f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 109.22)
+		(size 25.908 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "45873352-bc65-475d-9863-8a0332d84f81")
+		(property "Sheetname" "LIS2DH12TR"
+			(at 119.38 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LIS2DH12TR.kicad_sch"
+			(at 119.38 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "WEIGHT_PCB"
+				(path "/5fd124d5-f631-461d-96a1-dd77850b026f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.452 98.044)
+		(size 20.066 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "46a8a2dc-aa8d-4d00-a6fe-bc40233decab")
+		(property "Sheetname" "FT230XS"
+			(at 187.452 97.3324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FT230XS.kicad_sch"
+			(at 187.452 110.0586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "WEIGHT_PCB"
+				(path "/5fd124d5-f631-461d-96a1-dd77850b026f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 162.56 65.786)
+		(size 39.116 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8eeca3c0-ba26-48f9-96e8-6d33db4880af")
+		(property "Sheetname" "AT24C04"
+			(at 162.56 65.0744 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EEPROM.kicad_sch"
+			(at 162.56 81.6106 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "WEIGHT_PCB"
+				(path "/5fd124d5-f631-461d-96a1-dd77850b026f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
