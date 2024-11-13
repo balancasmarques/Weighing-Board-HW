@@ -955,6 +955,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -966,6 +967,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -977,6 +979,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -988,6 +991,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -999,6 +1003,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -1010,6 +1015,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(bold yes)
 			)
 			(justify left bottom)
 		)

@@ -5,6 +5,7 @@
 	(uuid "ed980a63-4d13-4479-b744-833bd2a5d460")
 	(paper "A4")
 	(title_block
+		(title "Voltage Regulators")
 		(date "2024-11-12")
 		(rev "0.01")
 		(company "Balanças Marques")
@@ -2675,6 +2676,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -2686,6 +2688,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -2697,6 +2700,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -2902,7 +2906,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14ce1515-14d4-4183-b978-16c10f8a1e01")
-		(property "Reference" "IC5"
+		(property "Reference" "IC6"
 			(at 223.52 109.22 0)
 			(effects
 				(font
@@ -3163,7 +3167,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6070542a-9a64-4798-989b-8170dc28f6b0")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR057"
 			(at 218.44 135.89 0)
 			(effects
 				(font
@@ -3509,7 +3513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7862ac28-a810-4563-aeaf-78cdfb3ae027")
-		(property "Reference" "IC6"
+		(property "Reference" "IC5"
 			(at 90.17 72.39 0)
 			(effects
 				(font
@@ -3641,7 +3645,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7cd8cbe3-0c91-403d-a80a-410b731e7d66")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR053"
 			(at 256.54 90.17 0)
 			(effects
 				(font
