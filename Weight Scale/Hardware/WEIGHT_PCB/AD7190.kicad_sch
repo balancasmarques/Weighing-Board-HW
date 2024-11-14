@@ -4809,6 +4809,19 @@
 			"FABRRRQAUUUUAFFFFAH/2Q=="
 		)
 	)
+	(text "Notes:\nUsing Internal Clock of 4.92 MHz (+-4%)\nUsing AIN1 and AIN2 as differential input channel"
+		(exclude_from_sim no)
+		(at 84.074 188.976 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "0bf6fa54-f473-49ac-834a-65e9e0a5e8ec")
+	)
 	(text "Note: Supply is VCEL"
 		(exclude_from_sim no)
 		(at 38.862 44.958 0)
@@ -4839,7 +4852,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4852,7 +4865,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -4865,7 +4877,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -4878,7 +4889,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -4891,7 +4901,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -4916,7 +4925,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -4928,7 +4936,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -4941,7 +4949,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -4954,7 +4961,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -4978,7 +4984,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -4990,7 +4995,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -5003,7 +5008,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -5074,7 +5078,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -5086,7 +5089,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -5099,7 +5102,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -5112,7 +5114,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -5125,7 +5126,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -5162,7 +5162,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -5175,7 +5174,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -5188,7 +5186,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -5201,7 +5198,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify right bottom)
 		)
@@ -5213,7 +5209,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -5237,7 +5233,6 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -5329,7 +5324,7 @@
 		(uuid "98bba1ab-4d9d-4b74-9efb-44d96ee9a9e8")
 	)
 	(hierarchical_label "VCEL+"
-		(shape input)
+		(shape output)
 		(at 25.4 20.32 180)
 		(fields_autoplaced yes)
 		(effects
@@ -5354,7 +5349,7 @@
 		(uuid "e50f65aa-c846-4e86-8612-e1b904888fad")
 	)
 	(hierarchical_label "VCEL-"
-		(shape input)
+		(shape output)
 		(at 25.4 22.86 180)
 		(fields_autoplaced yes)
 		(effects

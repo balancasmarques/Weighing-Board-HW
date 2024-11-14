@@ -24,6 +24,10 @@
 		(color 0 0 0 0)
 		(uuid "f6b0371b-e7f5-42b5-aee0-78e21edbdae3")
 	)
+	(no_connect
+		(at 137.16 137.16)
+		(uuid "27e300b9-9f71-48d0-8c5b-a9b35fcba3bc")
+	)
 	(wire
 		(pts
 			(xy 162.56 129.54) (xy 172.72 129.54)
@@ -36,7 +40,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 114.3) (xy 116.84 114.3)
+			(xy 132.08 145.034) (xy 116.84 145.034)
 		)
 		(stroke
 			(width 0)
@@ -66,13 +70,33 @@
 	)
 	(wire
 		(pts
-			(xy 127 116.84) (xy 127 129.54)
+			(xy 127 147.574) (xy 127 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2cd67e4d-3c1d-4f2d-831a-88d947ea046e")
+	)
+	(wire
+		(pts
+			(xy 198.12 134.62) (xy 208.28 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "320989df-7245-4539-aa62-d6b7718bf63a")
+	)
+	(wire
+		(pts
+			(xy 198.12 152.4) (xy 208.28 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "595d83e5-689a-423b-ac2e-cb5a064a4665")
 	)
 	(wire
 		(pts
@@ -86,13 +110,23 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 116.84) (xy 127 116.84)
+			(xy 116.84 147.574) (xy 127 147.574)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5fd974cd-1e53-447a-83bb-77d4780e7be7")
+	)
+	(wire
+		(pts
+			(xy 198.12 137.16) (xy 208.28 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71152751-0f2f-4b4e-8405-fa60de350e19")
 	)
 	(wire
 		(pts
@@ -106,7 +140,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 127) (xy 132.08 114.3)
+			(xy 132.08 127) (xy 132.08 145.034)
 		)
 		(stroke
 			(width 0)
@@ -126,6 +160,26 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 162.56) (xy 208.28 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3941361-c8cc-4854-9847-3150269b1701")
+	)
+	(wire
+		(pts
+			(xy 198.12 127) (xy 208.28 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4aab05c-282c-4b2a-b780-30ea4e538c92")
+	)
+	(wire
+		(pts
 			(xy 162.56 132.08) (xy 172.72 132.08)
 		)
 		(stroke
@@ -136,6 +190,46 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 139.7) (xy 208.28 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1567f1c-5e5b-4c17-8496-1a192b197bc9")
+	)
+	(wire
+		(pts
+			(xy 198.12 157.48) (xy 208.28 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfe5d43e-eca2-484b-a3ba-862162da9788")
+	)
+	(wire
+		(pts
+			(xy 198.12 154.94) (xy 208.28 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d21a6a9f-7dcf-419b-8e86-1294b5eecb1e")
+	)
+	(wire
+		(pts
+			(xy 198.12 132.08) (xy 208.28 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2e95e24-b494-4c0c-8158-f46da1934ff8")
+	)
+	(wire
+		(pts
 			(xy 116.84 127) (xy 132.08 127)
 		)
 		(stroke
@@ -143,6 +237,16 @@
 			(type default)
 		)
 		(uuid "dfa571d0-1185-407b-af58-433f1317f2d0")
+	)
+	(wire
+		(pts
+			(xy 162.56 157.48) (xy 172.72 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3383ff1-4d9b-4f84-bf5b-3a19e19a7880")
 	)
 	(wire
 		(pts
@@ -163,6 +267,36 @@
 			(type default)
 		)
 		(uuid "eec2d009-4f2b-4e99-86f1-ac74a503c86b")
+	)
+	(wire
+		(pts
+			(xy 198.12 129.54) (xy 208.28 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2d11ac0-74cd-4264-bdb7-657976cf27e2")
+	)
+	(wire
+		(pts
+			(xy 198.12 160.02) (xy 208.28 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f821555e-b7cc-4a0c-9b39-e7b8645bec90")
+	)
+	(wire
+		(pts
+			(xy 162.56 154.94) (xy 172.72 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe49b362-3e2f-4dcb-b600-a056ce53eece")
 	)
 	(sheet
 		(at 172.72 124.46)
@@ -214,7 +348,7 @@
 			)
 			(uuid "574b0723-61b7-44f5-959c-d6db52334b1c")
 		)
-		(pin "VCEL-" input
+		(pin "VCEL-" output
 			(at 198.12 134.62 0)
 			(effects
 				(font
@@ -234,7 +368,7 @@
 			)
 			(uuid "79298e24-4696-421a-aa7f-c28d2879970c")
 		)
-		(pin "VCEL+" input
+		(pin "VCEL+" output
 			(at 198.12 132.08 0)
 			(effects
 				(font
@@ -314,7 +448,7 @@
 	)
 	(sheet
 		(at 137.16 124.46)
-		(size 25.4 27.94)
+		(size 25.4 38.1)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -334,7 +468,7 @@
 			)
 		)
 		(property "Sheetfile" "microcontroller.kicad_sch"
-			(at 137.16 152.9846 0)
+			(at 137.16 163.1446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -383,17 +517,17 @@
 			(uuid "e9500f94-e747-4b51-b5ad-8c202a0550d2")
 		)
 		(pin "RXD2" input
-			(at 137.16 147.32 180)
+			(at 162.56 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 			(uuid "84869666-1dc6-4e09-b96e-8e2b26033763")
 		)
 		(pin "USB_DP" bidirectional
-			(at 137.16 142.24 180)
+			(at 137.16 154.94 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -413,17 +547,17 @@
 			(uuid "9e5cbfaf-0f55-41b3-9813-27346b49974f")
 		)
 		(pin "TXD2" output
-			(at 137.16 144.78 180)
+			(at 162.56 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 			(uuid "bb5f8f6c-b6ed-4bdc-acbe-fcce5ec9d2ef")
 		)
 		(pin "USB_DN" bidirectional
-			(at 137.16 139.7 180)
+			(at 137.16 152.4 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -433,7 +567,7 @@
 			(uuid "579304d9-8e29-422d-bc72-62538a4818cf")
 		)
 		(pin "TEMP" input
-			(at 137.16 149.86 180)
+			(at 137.16 137.16 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -549,8 +683,8 @@
 		)
 	)
 	(sheet
-		(at 101.346 141.986)
-		(size 20.574 11.43)
+		(at 172.72 149.86)
+		(size 25.4 14.224)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -561,7 +695,7 @@
 		)
 		(uuid "46a8a2dc-aa8d-4d00-a6fe-bc40233decab")
 		(property "Sheetname" "FT230XS"
-			(at 101.346 141.2744 0)
+			(at 172.72 149.1484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -570,13 +704,83 @@
 			)
 		)
 		(property "Sheetfile" "FT230XS.kicad_sch"
-			(at 101.346 154.0006 0)
+			(at 172.72 164.6686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "RXD_TTL" input
+			(at 198.12 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ac6f4b32-d56d-41a5-babd-267665c7ef82")
+		)
+		(pin "VUSB" input
+			(at 198.12 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a8bfeea1-8e04-498f-80a3-e61da75e6107")
+		)
+		(pin "TXD2" input
+			(at 172.72 157.48 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "34468808-c48d-4832-b5cb-a7c0ab96d01d")
+		)
+		(pin "RXD2" output
+			(at 172.72 154.94 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "562f6491-5683-4e48-ba66-13aa7da0b3c3")
+		)
+		(pin "D_N" bidirectional
+			(at 198.12 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "200e166e-d3f9-4977-b2a7-a89b3032ea94")
+		)
+		(pin "D_P" bidirectional
+			(at 198.12 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2506ff7c-472a-4b30-bb0c-1bdb3005df68")
+		)
+		(pin "TXD_TTL" output
+			(at 198.12 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "63b5f757-ad0a-4eb0-b227-7f24f6a649bc")
 		)
 		(instances
 			(project "WEIGHT_PCB"
@@ -587,7 +791,7 @@
 		)
 	)
 	(sheet
-		(at 101.6 111.506)
+		(at 101.6 142.24)
 		(size 15.24 7.874)
 		(fields_autoplaced yes)
 		(stroke
@@ -599,7 +803,7 @@
 		)
 		(uuid "8eeca3c0-ba26-48f9-96e8-6d33db4880af")
 		(property "Sheetname" "AT24C04"
-			(at 101.6 110.7944 0)
+			(at 101.6 141.5284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -608,7 +812,7 @@
 			)
 		)
 		(property "Sheetfile" "EEPROM.kicad_sch"
-			(at 101.6 119.9646 0)
+			(at 101.6 150.6986 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -617,7 +821,7 @@
 			)
 		)
 		(pin "SDA" bidirectional
-			(at 116.84 114.3 0)
+			(at 116.84 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -627,7 +831,7 @@
 			(uuid "8f3a0a27-4f18-49c5-8525-510a4e48ec41")
 		)
 		(pin "SCL" bidirectional
-			(at 116.84 116.84 0)
+			(at 116.84 147.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -645,8 +849,156 @@
 		)
 	)
 	(sheet
-		(at 172.466 85.598)
-		(size 25.908 16.002)
+		(at 208.28 124.46)
+		(size 33.02 40.894)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d6cd336b-0c53-4d2c-b564-03eb9e966f6d")
+		(property "Sheetname" "Connections"
+			(at 208.28 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connections.kicad_sch"
+			(at 208.28 165.9386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VCEL+" input
+			(at 208.28 132.08 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0de58c31-8162-4d22-9af5-c1fad739876e")
+		)
+		(pin "SENSE+" output
+			(at 208.28 137.16 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c031b3b3-68d5-443d-ae20-e3874aecb616")
+		)
+		(pin "SIGNAL+" output
+			(at 208.28 127 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b7ab805b-664e-4c84-ad0e-859f968b9c3c")
+		)
+		(pin "SIGNAL-" output
+			(at 208.28 129.54 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "65a84e22-50a9-4fd5-b6df-9f651e3469ee")
+		)
+		(pin "VCEL-" input
+			(at 208.28 134.62 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e05b7657-824e-41e0-aaeb-1db72090fb33")
+		)
+		(pin "SENSE-" output
+			(at 208.28 139.7 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "885c3be8-5453-4504-89a6-806090629f50")
+		)
+		(pin "D+" bidirectional
+			(at 208.28 162.56 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "05489cd4-aabe-4733-9b75-d9bfc35a42a3")
+		)
+		(pin "VUSB" output
+			(at 208.28 152.4 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6b43f9d8-02a6-4af8-aef3-763af855c9b7")
+		)
+		(pin "D-" bidirectional
+			(at 208.28 160.02 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "65e0fe56-188b-4179-b2ba-910251b25cc0")
+		)
+		(pin "UART-RX" output
+			(at 208.28 154.94 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1c6f0db9-e606-42a6-8529-aab2ba049e46")
+		)
+		(pin "UART-TX" input
+			(at 208.28 157.48 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cefec3ec-13ba-4e01-887c-c789d71536da")
+		)
+		(instances
+			(project "WEIGHT_PCB"
+				(path "/5fd124d5-f631-461d-96a1-dd77850b026f"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 101.6)
+		(size 20.32 12.7)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -657,7 +1009,7 @@
 		)
 		(uuid "e01d98cf-b3f7-4e82-9089-0cc264b8fff6")
 		(property "Sheetname" "Voltage_Regulators"
-			(at 172.466 84.8864 0)
+			(at 152.4 100.8884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -666,7 +1018,7 @@
 			)
 		)
 		(property "Sheetfile" "Voltage_Regulators.kicad_sch"
-			(at 172.466 102.1846 0)
+			(at 152.4 114.8846 0)
 			(effects
 				(font
 					(size 1.27 1.27)

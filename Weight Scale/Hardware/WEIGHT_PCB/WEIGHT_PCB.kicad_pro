@@ -602,6 +602,10 @@
     [
       "e01d98cf-b3f7-4e82-9089-0cc264b8fff6",
       "Voltage_Regulators"
+    ],
+    [
+      "d6cd336b-0c53-4d2c-b564-03eb9e966f6d",
+      "Connections"
     ]
   ],
   "text_variables": {}

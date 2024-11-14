@@ -955,7 +955,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -967,7 +967,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -1003,7 +1003,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -1067,7 +1067,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34194f15-d3d7-4ec2-a3e7-caa2760c0f07")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR056"
 			(at 120.65 90.17 0)
 			(effects
 				(font
@@ -1117,7 +1117,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/45873352-bc65-475d-9863-8a0332d84f81"
-					(reference "#PWR049")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -1133,7 +1133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d8cd147-8ee2-45ab-9b6c-7ba40b10a840")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR057"
 			(at 184.15 96.52 0)
 			(effects
 				(font
@@ -1183,7 +1183,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/45873352-bc65-475d-9863-8a0332d84f81"
-					(reference "#PWR050")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -1409,7 +1409,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cf83953-1576-4d38-a1ba-93320b619f9a")
-		(property "Reference" "C26"
+		(property "Reference" "C30"
 			(at 181.61 83.82 0)
 			(effects
 				(font
@@ -1463,7 +1463,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/45873352-bc65-475d-9863-8a0332d84f81"
-					(reference "C26")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -1479,7 +1479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0817de0-4085-4d31-a8cd-89bda09a6c32")
-		(property "Reference" "C27"
+		(property "Reference" "C31"
 			(at 193.04 83.82 0)
 			(effects
 				(font
@@ -1533,7 +1533,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/45873352-bc65-475d-9863-8a0332d84f81"
-					(reference "C27")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -1549,7 +1549,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eea98252-73a2-40fa-a923-e0caab088411")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR058"
 			(at 163.83 113.03 0)
 			(effects
 				(font
@@ -1599,7 +1599,7 @@
 		(instances
 			(project ""
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/45873352-bc65-475d-9863-8a0332d84f81"
-					(reference "#PWR051")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -1615,7 +1615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efa2d8cf-6ba0-4f34-b13c-3480fa8960ff")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR055"
 			(at 189.23 81.28 0)
 			(effects
 				(font
@@ -1665,7 +1665,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/45873352-bc65-475d-9863-8a0332d84f81"
-					(reference "#PWR048")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)

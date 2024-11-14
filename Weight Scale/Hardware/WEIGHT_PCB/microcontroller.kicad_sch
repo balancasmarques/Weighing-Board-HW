@@ -3637,7 +3637,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3649,7 +3649,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3661,7 +3661,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3673,7 +3673,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3685,7 +3685,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3697,7 +3697,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3709,7 +3709,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3721,7 +3721,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3733,7 +3733,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3745,7 +3745,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3757,7 +3757,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3769,7 +3769,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3781,7 +3781,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3793,7 +3793,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3805,7 +3805,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3817,7 +3817,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3829,7 +3829,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3841,7 +3841,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3853,7 +3853,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3865,7 +3865,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3877,7 +3877,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3889,7 +3889,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3901,7 +3901,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3913,7 +3913,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3925,7 +3925,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3937,7 +3937,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3949,7 +3949,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3961,7 +3961,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3973,7 +3973,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3985,7 +3985,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -3997,7 +3997,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -4009,7 +4009,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4021,7 +4021,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -4045,7 +4045,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4057,7 +4057,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4069,7 +4069,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4081,7 +4081,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4093,7 +4093,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -4105,7 +4105,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4117,7 +4117,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4129,7 +4129,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4141,7 +4141,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4153,7 +4153,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4165,7 +4165,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify left bottom)
 		)
@@ -4337,7 +4337,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0923e3db-50eb-4317-a584-19943cde16e0")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR028"
 			(at 210.82 87.63 0)
 			(effects
 				(font
@@ -4387,7 +4387,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR029")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -4543,7 +4543,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23c48f04-19d3-42a0-9666-ee0e8922ee90")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR026"
 			(at 67.31 87.63 0)
 			(effects
 				(font
@@ -4593,7 +4593,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR027")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -4679,7 +4679,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27868a47-afb1-467e-95c8-8afea479c7c4")
-		(property "Reference" "R17"
+		(property "Reference" "R15"
 			(at 96.52 139.7 0)
 			(effects
 				(font
@@ -4733,7 +4733,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "R17")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -4749,7 +4749,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32302d28-f83c-4e0a-864f-327003bbb319")
-		(property "Reference" "R16"
+		(property "Reference" "R17"
 			(at 219.71 139.7 0)
 			(effects
 				(font
@@ -4803,7 +4803,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "R16")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -4952,7 +4952,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3df4e5de-8909-47b6-ae78-39fbb0fee428")
-		(property "Reference" "R15"
+		(property "Reference" "R16"
 			(at 209.55 139.7 0)
 			(effects
 				(font
@@ -5006,7 +5006,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "R15")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -5228,7 +5228,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "536350c1-3eae-4ebe-9fc5-7f8382d6c53b")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR025"
 			(at 53.34 76.2 0)
 			(effects
 				(font
@@ -5278,7 +5278,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR024")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -5458,7 +5458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64cbb891-51ce-46f0-9283-d4fc35c5bd71")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR033"
 			(at 81.28 118.11 0)
 			(effects
 				(font
@@ -5508,7 +5508,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR032")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -5726,7 +5726,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7edbff77-ce0b-4556-9de7-618c78d9b6fe")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR035"
 			(at 165.1 135.89 0)
 			(effects
 				(font
@@ -5776,7 +5776,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR036")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -5792,7 +5792,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8437671b-d6d8-4e8a-b015-f3cd0bb1e736")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR032"
 			(at 227.33 115.57 0)
 			(effects
 				(font
@@ -5842,7 +5842,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR033")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -6070,7 +6070,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1b77af7-5f24-4d9a-bef2-1f919a08ef71")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR027"
 			(at 187.96 85.09 0)
 			(effects
 				(font
@@ -6120,7 +6120,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR026")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -6410,7 +6410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0663975-d11b-46bc-934b-5296b9dee943")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR029"
 			(at 187.96 92.71 0)
 			(effects
 				(font
@@ -6460,7 +6460,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR028")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -6674,7 +6674,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d17f5ff4-6301-4065-a9bd-6d37c73bea8c")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR036"
 			(at 212.09 138.43 0)
 			(effects
 				(font
@@ -6724,7 +6724,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR034")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -7156,7 +7156,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "df98d5f8-d4a0-4976-8f56-0d788280d6ea")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR024"
 			(at 133.35 67.31 0)
 			(effects
 				(font
@@ -7206,7 +7206,7 @@
 		(instances
 			(project ""
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR023")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -7222,7 +7222,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0c2726a-26e8-473b-855d-a76c0f99b0be")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR023"
 			(at 240.03 66.04 0)
 			(effects
 				(font
@@ -7272,7 +7272,7 @@
 		(instances
 			(project "WEIGHT_PCB"
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR025")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -7496,7 +7496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9917cf9-bfc3-492e-b9d3-300eb8c8e05c")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR034"
 			(at 158.75 137.16 0)
 			(effects
 				(font
@@ -7546,7 +7546,7 @@
 		(instances
 			(project ""
 				(path "/5fd124d5-f631-461d-96a1-dd77850b026f/3b857fd8-f88b-4275-a62b-b256e217c817"
-					(reference "#PWR035")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
